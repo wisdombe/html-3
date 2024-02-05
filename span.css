@@ -1,0 +1,27 @@
+p{
+    font-family: arial;
+    }
+.span-1{
+font-weight: bold;
+font-size: 28px;
+}
+.second-digits{
+color: green;
+font-weight: bold;
+}
+
+.third-b{
+color: red;
+}
+
+.usd-1{
+margin-left: 4px;
+font-weight: bold;
+color: gray;
+}
+
+.hours-1{
+font-weight: bold;
+color: gray;
+}
+

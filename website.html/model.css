@@ -1,0 +1,30 @@
+p{
+    text-align: center;
+  }
+  .model-text{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .touchless-text:active {
+    color: red;
+    transition: 0.15s;
+  }
+  .touchless-text{
+    margin-right: 6px;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+ .touchless-text:hover {
+  opacity: 0.5;
+  transition: 0.15s;
+
+ }
+  
+ .text-body{
+  font-weight:700px;
+  font-family: arial;
+
+ }
+
